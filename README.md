@@ -10,6 +10,6 @@ The code can be conveniently run using the jupyter notebook `GDPR_ANALYSIS_MAIN.
   title = {The Privacy Policy Landscape After the GDPR},
   author = {Thomas Linden and Rishabh Khandelwal and Hamza Harkous, and Kassem Fawaz},
   booktitle = {ArXiv preprint arXiv:1809.08396},
-  year = {2020}
+  year = {2019}
 }
 ```
