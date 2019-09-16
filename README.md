@@ -1,4 +1,4 @@
-# GDPR
+# The Privacy Policy Landscape After The GDPR
 Dataset and source code for the paper [The Privacy Policy Landscape After the GDPR](https://arxiv.org/pdf/1809.08396.pdf)
 
 ## Running the code
