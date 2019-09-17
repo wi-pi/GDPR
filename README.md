@@ -17,6 +17,7 @@ python -m spacy download en_core_web_lg
 and rerun the code. 
 
 ## Citation
+If you wish to use our dataset in your research, please cite our PETS 2020 paper.
 ```
 @inproceedings{linden2020gdpr,
   title = {The Privacy Policy Landscape After the GDPR},
