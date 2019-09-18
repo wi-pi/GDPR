@@ -14,7 +14,7 @@ please download the appropriate model using the command
 ```
 python -m spacy download en_core_web_lg
 ``` 
-before running the code. 
+before running the code. All other dependencies are listed in `requirements.txt`. 
 
 ## Citation
 If you wish to use our dataset in your research, please cite our PETS 2020 paper.
